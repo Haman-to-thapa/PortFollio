@@ -34,14 +34,14 @@ const projects = [
     title: "Portfolio",
     description: "Personal portfolio to showcase my projects and skills.",
     image: port,
-    link: "hamanportfolio-gfwtliaec-hamans-projects-507d5267.vercel.app",
+    link: "https://hamanportfolio.vercel.app/",
   },
 
   {
     title: "Portfolio Website",
     description: "Personal portfolio to showcase my projects and skills.",
     image: "https://via.placeholder.com/400x300",
-    link: "https://hamanportfolio.vercel.app/",
+    link: "https://hamanportfolio.vercel.app/"
   },
 
 ];
