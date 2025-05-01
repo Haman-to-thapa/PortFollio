@@ -41,7 +41,7 @@ const projects = [
     title: "Portfolio Website",
     description: "Personal portfolio to showcase my projects and skills.",
     image: "https://via.placeholder.com/400x300",
-    link: "https://yourportfolio.com",
+    link: "https://hamanportfolio.vercel.app/",
   },
 
 ];
