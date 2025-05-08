@@ -8,7 +8,7 @@ const projects = [
     title: "LMS full Website ",
     description: "I’ve built a full-stack LMS website, but there are some issues. I’m not sure what’s wrong — Render is glitching and not opening properly. I’ve only deployed the frontend so far and can’t share my open link right now. i can't provide my my repo link",
     image: Lms,
-    link: "https://github.com/Haman-to-thapa/LMS-full-project",
+    link: "https://new-lms-project-can-1.onrender.com/",
   },
 
   {
