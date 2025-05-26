@@ -2,7 +2,7 @@ import doctor from '../assets/doctor.png';
 import eco from '../assets/eco.png'
 import Lms from '../assets/Lms.png'
 import port from '../assets/portfolio.png'
-import text from '../assets/text-to-Speech.png'
+import text from '@/assets/text.png'
 
 const projects = [
   {
