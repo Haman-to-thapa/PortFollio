@@ -2,6 +2,7 @@ import doctor from '../assets/doctor.png';
 import eco from '../assets/eco.png'
 import Lms from '../assets/Lms.png'
 import port from '../assets/portfolio.png'
+import text from '../assets/text-to-Speech.png'
 
 const projects = [
   {
@@ -29,20 +30,21 @@ const projects = [
     image: "https://doctor-appointment-admin-v061.onrender.com/",
     link: "https://yourportfolio.com",
   },
+  {
+    title: "Speech-to-text",
+    description: "Developed a MERN stack Speech-to-Text web app with audio upload, real-time transcription, and management using the Deepgram API for accurate speech recognition..",
+    image: text,
+    link: "https://speech-to-text-apps-1.onrender.com/"
+  },
 
   {
-    title: "Portfolio",
+    title: "Portfolio Build responsive",
     description: "Personal portfolio to showcase my projects and skills.",
     image: port,
     link: "https://hamanportfolio.vercel.app/",
   },
 
-  {
-    title: "Portfolio Website",
-    description: "Personal portfolio to showcase my projects and skills.",
-    image: "https://via.placeholder.com/400x300",
-    link: "https://hamanportfolio.vercel.app/"
-  },
+
 
 ];
 
