@@ -31,12 +31,14 @@ const Home = () => {
                 }`}
             >
               I'm a <span className="text-[#eb5951] font-bold">Frontend Developer</span> passionate about building
-              <span className="text-[#eb5951] font-bold"> visually stunning </span> and
-              <span className="text-[#eb5951] font-bold"> highly functional </span> websites. I specialize in
+              <span className="text-[#eb5951] font-bold"> visually stunning</span> and
+              <span className="text-[#eb5951] font-bold"> highly functional</span> websites. I specialize in
               <span className="text-[#38bdf8] font-semibold"> Tailwind CSS</span>,
-              <span className="text-[#61dafb] font-semibold"> React.js</span>, and
-              <span className="text-yellow-500 font-semibold"> JavaScript</span>, ensuring seamless user experiences with modern UI/UX principles.
+              <span className="text-[#61dafb] font-semibold"> React.js</span>,
+              <span className="text-yellow-500 font-semibold"> JavaScript</span>, and the
+              <span className="text-green-400 font-bold"> MERN stack</span> (MongoDB, Express.js, React, Node.js), ensuring seamless user experiences with modern UI/UX principles.
             </p>
+
             <br />
             <br />
           </div>
